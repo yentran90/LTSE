@@ -1,7 +1,7 @@
 LTSE Appplication Demo
 This software is written in Java language.
 
-This source code can be fun in any compute that installed Java 1.7
+This source code can be run in any compute that installed Java 1.7
 
 1. To run code:
 - Just copy Runable file ltse.jar and data folder (inluding firms.txt, symbols.txt, trades.csv) to the same clean folder.
@@ -14,7 +14,10 @@ For example, you can see the folder demo_ltse with structure as below:
 - Double click to ltse.jar.
 - After execution, open folder data to confirm 4 output files:
 
-	demo_ltse/data/rokerIDs_Accepted.csv	demo_ltse/data/brokerIDs_Rejected.csv	demo_ltse/data/orders_Accepted.csv	demo_ltse/data/orders_Rejected.csv
+	demo_ltse/data/rokerIDs_Accepted.csv
+	demo_ltse/data/brokerIDs_Rejected.csv
+	demo_ltse/data/orders_Accepted.csv
+	demo_ltse/data/orders_Rejected.csv
 
 
 2. To view code:
